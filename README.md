@@ -7,21 +7,16 @@
 - ⚡ Fun fact: I make a lot of jokes.
 
 🔧 Tech Stack
-Languages: JavaScript, C#, HTML5, CSS3, SQL, Python
-
-Frameworks & Libraries: React, ASP.NET Core, Entity Framework, Node.js, Django, TensorFlow, Scikit-learn, Pandas
-
-Tools & Platforms: Git, GitHub, Visual Studio, VS Code, SQL Server, Twilio, Electron, PYCharm, JupiterNotebook, PowerBI
-
-Current Exploration: IoT & Fatigue Detection Systems using Raspberry Pi and Computer Vision
+    Languages: JavaScript, C#, HTML5, CSS3, SQL, Python
+    Frameworks & Libraries: React, ASP.NET Core, Entity Framework, Node.js, Django, TensorFlow, Scikit-learn, Pandas
+    Tools & Platforms: Git, GitHub, Visual Studio, VS Code, SQL Server, Twilio, Electron, PYCharm, JupiterNotebook, PowerBI
+    Current Exploration: IoT & Fatigue Detection Systems using Raspberry Pi and Computer Vision
 
 
 🌱 What I'm Working On
-Improving my skills in full-stack development and Python Development for Data Science
-
-Building creative and real-world apps for my portfolio
-
-Exploring startup ideas in the tech and service space
+   Improving my skills in full-stack development and Python Development for Data Science
+   Building creative and real-world apps for my portfolio
+   Exploring startup ideas in the tech and service space
 
 
 Want to collaborate or just say hi? Feel free to reach out! <3 
