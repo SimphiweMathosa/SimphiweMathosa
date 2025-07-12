@@ -63,7 +63,7 @@ Check out my pinned projects or reach out if you’d like a private walkthrough 
 
 ## 📫 Let’s Connect
 
-🔗 [LinkedIn](www.linkedin.com/in/simphiwe-mathosa) | 📬 Email: simphiwemathosa@example.com  
+🔗 [LinkedIn](www.linkedin.com/in/simphiwe-mathosa) | 📬 Email: simphiwemathosa@gmail.com  
 Feel free to reach out for collaborations, internships, freelance work, or even just to talk tech. I’m always excited to connect with like-minded people.
 
 ---
